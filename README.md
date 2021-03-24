@@ -1,0 +1,2 @@
+# Modeling-Quantum-Many-Body-Systems-using-Neural-Autoregressive-Density-Estimator
+Project goal:  To create an efficient program that generates the ground state wavefunction and energy for a given quantum system size and Hamiltonian using neural networks and machine learning.  Utilizes pyTorch machine learning library and neural autoregressive density estimator (NADE) architecture.  Current system
